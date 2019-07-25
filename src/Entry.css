@@ -1,0 +1,12 @@
+.blog-entry {
+    position: relative;
+    width: 80%;
+    height: 5em;
+    background-color: aqua;
+    margin: 2em;
+    z-index: 1;
+}
+
+.entry-list {
+    margin-top: 6em;
+}
