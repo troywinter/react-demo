@@ -4,7 +4,7 @@
 }
 
 .Heading {
-	position: absolute;
+	position: relative;
 	background-color: #20232a;
 	color: #ffffff;
 	z-index: 1;
